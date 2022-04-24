@@ -1,0 +1,19 @@
+# Node
+npm-debug.log
+node_modules/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# WebStorm/PhpStorm/VSCode
+.idea/
+.vscode/
+
+# vi
+*~
+
+# General
+*.log
